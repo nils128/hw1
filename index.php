@@ -1,4 +1,4 @@
 <?php
-echo "<p>Beispielseite (von Nils Kellermann)</p>";
-echo "<p>Änderung von Tim Kellermann</p>"; 
+echo "Beispielseite (von Nils Kellermann).";
+echo "Änderung von Tim Kellermann."; 
 ?>
