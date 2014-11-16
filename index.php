@@ -1,5 +1,5 @@
 <?php
 echo "Beispielseite (von Nils Kellermann)";
-echo " ";
+<br />
 echo "Änderung von Tim Kellermann";
 ?>
