@@ -1,5 +1,4 @@
 <?php
-echo "Beispielseite (von Nils Kellermann)";
-<br />
-echo "Änderung von Tim Kellermann";
+echo "<p>Beispielseite (von Nils Kellermann)</p>";
+echo "<p>Änderung von Tim Kellermann</p>"; 
 ?>
