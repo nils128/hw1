@@ -2,39 +2,31 @@
        "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>Beispielseite</title>
+<title>Test-Seite</title>
 <style>
-#footer {
-    clear:left;
-    margin-top:1em;
-    background:#efefef;
-    text-align:center;
-    padding:10px;
+#impressum {
 	position:fixed;
     bottom:0px;
-}
-
-#content_container {
-    padding-bottom:3em;
 }
 </style>
 </head>
 <body>
-<body background="bg.png">
+<body background="background.png" link="#0000CC" vlink="#000066" alink="#000000">
+<h1>Test</h1>
 
-<div id="content-container"><h1>Beispielhomepage</h1>
-
-<p>Eine simple HTML-Seite
+<p>Dies ist eine ganz einfache Homepage.
 </p>
-</div>
-<div id="footer">
-<h1>Impressum</h1>
 
-<p>Tim Kellermann <br>
+<div id="impressum">
+
+
+<p>
+<b>Impressum</b> <br>
+Nils Kellermann <br>
 Frankenstra&szlig;e 12 <br>
 35510 Pohl-G&ouml;ns <br>
-timsaccount@web.de <br>
-06033 73444
+nilskellermann@web.de <br>
+Tel: 06033 73444
 </p>
 </div>
 </body>
