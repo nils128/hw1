@@ -32,9 +32,4 @@ Tel: 06033 73444
 </div>
 </body>
 </html>
-=======
-<?php
-echo "Dies hier ist ein Test von Tim Kellermann."
-echo "von Nils bearbeitet"
-?>
 >>>>>>> edd5bf58dd83a83323c2e7beca18a60c7c08abff
